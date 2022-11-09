@@ -1,8 +1,8 @@
-sourceOrg=CR1
-destinationOrg=PB1
+sourceOrg=DevInt
+destinationOrg=DevRef
 package.xmlLocationToDeploy=metadata\package.xml
 folderLocationForFetchedZip=metadata
 waitTimeInMinutes=10
-testLevel=RunSpecifiedTests
+testLevel=NoTestRun
 runTests=TemperatureConverterTest,LeadProcessorTest
 folderLocationToUndeploy=metadata\destructive
